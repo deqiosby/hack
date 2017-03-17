@@ -1,0 +1,6 @@
+@echo off
+echo Hola!
+echo ¿Como estas?
+echo Bueno, supongo que bien, adios.
+pause>nul
+exit
